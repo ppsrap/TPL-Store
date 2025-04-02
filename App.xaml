@@ -1,0 +1,10 @@
+﻿<Application x:Class="TPL_Store.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TPL_Store"
+             xmlns:converter="clr-namespace:TPL_Store.Converter"
+             StartupUri="views/LoginView.xaml">
+    <Application.Resources>
+        <converter:NullToBoolConverter x:Key="NullToBoolConverter"/>
+    </Application.Resources>
+</Application>

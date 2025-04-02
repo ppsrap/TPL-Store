@@ -1,0 +1,34 @@
+C:\Users\Leo\RiderProjects\TPL Store\bin\Debug\net8.0-windows\TPL Store.exe
+C:\Users\Leo\RiderProjects\TPL Store\bin\Debug\net8.0-windows\TPL Store.deps.json
+C:\Users\Leo\RiderProjects\TPL Store\bin\Debug\net8.0-windows\TPL Store.runtimeconfig.json
+C:\Users\Leo\RiderProjects\TPL Store\bin\Debug\net8.0-windows\TPL Store.dll
+C:\Users\Leo\RiderProjects\TPL Store\bin\Debug\net8.0-windows\TPL Store.pdb
+C:\Users\Leo\RiderProjects\TPL Store\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Leo\RiderProjects\TPL Store\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\TPL Store.csproj.AssemblyReference.cache
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\views\HomeView.g.cs
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\views\LoginView.g.cs
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\TPL Store_MarkupCompile.cache
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\TPL Store_MarkupCompile.lref
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\views\HomeView.baml
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\views\LoginView.baml
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\TPL Store.g.resources
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\TPL Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\TPL Store.AssemblyInfoInputs.cache
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\TPL Store.AssemblyInfo.cs
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\TPL Store.csproj.CoreCompileInputs.cache
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\TPL Store.csproj.Up2Date
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\TPL Store.dll
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\refint\TPL Store.dll
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\TPL Store.pdb
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\TPL Store.genruntimeconfig.cache
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\ref\TPL Store.dll
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\views\OrderDetailsView.g.cs
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\App.baml
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\views\OrderDetailsView.baml
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\views\OrderView.g.cs
+C:\Users\Leo\RiderProjects\TPL Store\obj\Debug\net8.0-windows\views\OrderView.baml
